@@ -1,5 +1,15 @@
-# Williane-Yarro-ML-Course-ITAI-3377-Portfolio
 # Williane Yarro – Edge AI and IIoT Portfolio
+
+## Table of Contents
+- [Course Information](#course-information)
+- [About Me](#about-me)
+- [Machine Learning Interests](#machine-learning-interests)
+- [Skills Learned](#skills-learned)
+- [Tools and Technologies](#tools-and-technologies)
+- [Completed Assignments](#completed-assignments)
+- [Completed Laboratories](#completed-laboratories)
+- [Repository Purpose](#repository-purpose)
+- [Future Goals](#future-goals)
 
 ## Course Information
 **Student Name:** Williane Yarro  
@@ -7,10 +17,10 @@
 **Email:** joelleyarro@gmail.com  
 
 ## About Me
-Hello, my name is Williane Yarro. I am an Artificial Intelligence student with a strong interest in machine learning, Edge AI, IoT, and autonomous systems. I enjoy learning how intelligent technologies can collect data, analyze patterns, and support real-world decision-making. My goal is to continue building practical skills in AI and apply them to modern systems such as smart devices, automation, and industrial environments.
+Hello, my name is Williane Yarro. I am an Artificial Intelligence student with a strong interest in machine learning, Edge AI, IoT, and autonomous systems. I enjoy learning how intelligent technologies can solve real-world problems and improve efficiency across industries. My passion lies in understanding how data and algorithms can drive innovation in edge computing and IoT applications.
 
-## My Interest in Machine Learning
-I am interested in machine learning because it allows systems to learn from data and improve performance without being explicitly programmed for every task. I find it exciting to study how AI models can be trained, deployed, and used in environments such as Edge computing and Industrial Internet of Things (IIoT). Through this course, I have gained a deeper understanding of how machine learning supports smart applications, predictive analytics, and autonomous agents.
+## Machine Learning Interests
+I am interested in machine learning because it allows systems to learn from data and improve performance without being explicitly programmed for every task. I find it exciting to study how AI models can be deployed on edge devices to make intelligent decisions with minimal latency. The ability to process data locally while maintaining privacy is a compelling aspect of Edge AI that drives my learning in this field.
 
 ## Skills Learned
 Throughout this course, I developed knowledge and hands-on experience in the following areas:
@@ -55,11 +65,11 @@ Some of the tools, platforms, and concepts used in this course include:
 - **L07** – IIoT Network Analysis: Age of Information and Reliability Trade-offs  
 
 ## Repository Purpose
-This repository contains my assignments, laboratories, and project work completed during this course. It highlights my learning progress in Edge AI, IIoT, machine learning, autonomous agents, and data analytics. Each activity reflects the skills and concepts I developed throughout the semester.
+This repository contains my assignments, laboratories, and project work completed during the ITAI-3377 course. It highlights my learning progress in Edge AI, IIoT, machine learning, autonomous agents, and generative AI systems. The organized structure makes it easy to explore each completed assignment and lab, showcasing both technical implementations and analytical work.
 
 ## Future Goals
-As I continue my journey in Artificial Intelligence, I hope to expand my knowledge in machine learning, robotics, Edge computing, and real-world AI deployment. I want to keep improving my technical skills and apply them to meaningful projects that solve practical problems.
+As I continue my journey in Artificial Intelligence, I hope to expand my knowledge in machine learning, robotics, Edge computing, and real-world AI deployment. I want to keep improving my technical skills while contributing to open-source projects and collaborating with other AI enthusiasts. My ultimate goal is to develop innovative solutions that leverage Edge AI and IoT technologies to address real-world challenges.
 
+---
 
-**Email:** [joelleyarro@gmail.com](mailto:joelleyarro@gmail.com)
-
+**Contact:** [joelleyarro@gmail.com](mailto:joelleyarro@gmail.com)
